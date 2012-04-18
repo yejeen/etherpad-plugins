@@ -1,0 +1,15 @@
+{
+	"parts": [
+	{
+		"name": "syntaxhighlighting",
+		"hooks" : {
+			"eejsBlock_scripts": "ep_syntaxhighlighting/static/js/syntax:eejsBlock_scripts",
+			"eejsBlock_editbarMenuRight": "ep_syntaxhighlighting/static/js/syntax:eejsBlock_editbarMenuRight"
+		},
+		"client_hooks" : {
+			"acePostWriteDomLineHTML": "ep_syntaxhighlighting/static/js/syntax:acePostWriteDomLineHTML",
+			"aceInitInnerdocbodyHead": "ep_syntaxhighlighting/static/js/syntax:aceInitInnerdocbodyHead"
+		}
+	}]
+}
+

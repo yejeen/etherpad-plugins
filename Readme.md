@@ -2,6 +2,7 @@
 
 - Linkify: Adds internal links (ep_linkify)
 - Headings: Heading support (ep_headings)
+- SyntaxHighlighting: Syntax highlighting support (ep_syntaxhighlighting)
 
 # Installation
 ```
