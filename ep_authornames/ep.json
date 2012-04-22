@@ -1,0 +1,13 @@
+{
+	"parts": [
+	{
+		"name": "authornames",
+		"hooks" : {
+		
+		},
+		"client_hooks" : {
+			"acePostWriteDomLineHTML": "ep_authornames/static/js/index"
+		}
+	}]
+}
+

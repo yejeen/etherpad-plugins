@@ -1,0 +1,18 @@
+{
+  "author": "Martyn York <etinquis@gmail.com>",
+  "name": "ep_authornames",
+  "description": "Adds author names to lines in etherpad-lite",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/etinquis/etherpad-plugins.git"
+  },
+  "engines": {
+    "node": "*"
+  },
+  "dependencies": {
+	"ep_etherpad-lite": "1.0.x"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {}
+}
