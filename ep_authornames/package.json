@@ -1,7 +1,7 @@
 {
   "author": "Martyn York <etinquis@gmail.com>",
   "name": "ep_authornames",
-  "description": "Adds author names to lines in etherpad-lite",
+  "description": "Adds author names to span titles (shows on hover) in etherpad-lite",
   "version": "0.1.0",
   "repository": {
     "type": "git",
